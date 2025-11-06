@@ -1,1 +1,134 @@
+Olá! Recebi suas informações do entrevistador.
 
+Vejo que você escolheu **Desenvolvedor Front-End** e tem **12 horas por semana** para estudar. Perfeito!
+
+Vou montar agora seu plano completo personalizado com tudo que você precisa para conquistar seu primeiro emprego na área 👇
+
+---
+
+## 🧩 VISÃO DO DIA A DIA
+
+Como é o trabalho de um(a) Desenvolvedor Front-End:
+
+- Criar interfaces visuais de sites e aplicações web
+- Traduzir layouts e protótipos em código funcional (HTML, CSS, JS)
+- Integrar com APIs e serviços de backend
+- Garantir responsividade e acessibilidade
+- Corrigir bugs e melhorar a experiência do usuário
+
+---
+
+## 🧠 MAPA DE SKILLS
+
+**CORE SKILLS (essenciais):**
+- HTML5, CSS3
+- JavaScript moderno (ES6+)
+- Git e GitHub
+
+**NICE-TO-HAVE (complementares):**
+- React.js (framework popular)
+- UX/UI básico
+
+**FERRAMENTAS E TECNOLOGIAS:**
+- VS Code
+- Figma (para protótipos)
+- Chrome DevTools
+
+---
+
+## 📅 ROADMAP DE 90 DIAS
+
+**ADAPTADO PARA: 12 horas/semana**
+
+### MÊS 1 - FUNDAMENTOS
+
+**SEMANA 1-2:**
+- Aprender HTML e estrutura de páginas
+- Estilizar com CSS: cores, fontes, layouts
+
+**SEMANA 3-4:**
+- Introdução ao JavaScript: variáveis, funções, DOM
+- Criar páginas interativas com JS
+
+### MÊS 2 - PRÁTICA
+
+**SEMANA 5-6:**
+- Versionamento com Git e GitHub
+- Criar mini projetos: to-do list, contador, formulário
+
+**SEMANA 7-8:**
+- Aprender React.js: componentes, props, estado
+- Recriar uma landing page com React
+
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+
+**SEMANA 9-10:**
+- Criar projeto completo com HTML, CSS, JS e React
+- Publicar no GitHub Pages ou Vercel
+
+**SEMANA 11-12:**
+- Simular entrevistas técnicas
+- Revisar conceitos e montar currículo
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO
+
+**PROJETO: DevJobs - Plataforma de Vagas Front-End**
+
+**O QUE FAZER:**
+Criar uma aplicação web que lista vagas fictícias de tecnologia com filtros por tecnologia e localização.
+
+**ENTREGÁVEIS:**
+- Página principal com lista de vagas
+- Filtro por tecnologia (ex: Java, React)
+- Página de detalhes da vaga
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+- Layout responsivo
+- Código organizado e comentado
+- Deploy funcional e link público
+
+**DICA:** Use dados mockados (JSON) e foque na experiência visual e interatividade.
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS
+
+**PERGUNTA 1:** O que são tags HTML e para que servem?
+**COMO RESPONDER:** "Tags HTML são elementos que estruturam o conteúdo de uma página web, como títulos, parágrafos, imagens e links."
+
+**PERGUNTA 2:** Qual a diferença entre margin e padding?
+**COMO RESPONDER:** "Margin é o espaço externo ao elemento, enquanto padding é o espaço interno entre o conteúdo e a borda."
+
+**PERGUNTA 3:** O que é DOM e como o JavaScript interage com ele?
+**COMO RESPONDER:** "DOM é a representação da estrutura HTML em forma de objeto. O JavaScript pode acessar e modificar elementos do DOM dinamicamente."
+
+**PERGUNTA 4:** Como funciona o controle de versão com Git?
+**COMO RESPONDER:** "Git permite salvar versões do código, colaborar com outros desenvolvedores e reverter mudanças quando necessário."
+
+**PERGUNTA 5:** O que são props em React?
+**COMO RESPONDER:** "Props são propriedades que passamos para componentes React para torná-los reutilizáveis e dinâmicos."
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA
+
+**TRILHA:** "Formação Front-End Developer"
+
+**POR QUE ESSA TRILHA:**
+Ela cobre desde os fundamentos de HTML, CSS e JavaScript até projetos com React, Git e boas práticas — tudo alinhado com seu objetivo de conquistar o primeiro emprego.
+
+**PRÓXIMOS PASSOS:**
+1. Acesse [dio.me](https://dio.me)
+2. Busque por "Formação Front-End Developer"
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
+
+---
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+Quer que eu detalhe alguma parte específica do plano ou te ajude a montar o cronograma semanal?
